@@ -1,0 +1,11 @@
+{
+    "Products": [
+        {
+            "id": 1,
+            "name": "sample",
+            "type": "sample",
+            "place": "place",
+            "warranty": 2025
+        }
+    ]
+}
